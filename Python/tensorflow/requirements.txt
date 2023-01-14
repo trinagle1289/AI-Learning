@@ -1,3 +1,4 @@
 # Python version 3.9.15
 
 tensorflow==2.11.0
+pandas==1.5.2
