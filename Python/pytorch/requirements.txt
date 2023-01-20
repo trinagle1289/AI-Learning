@@ -7,3 +7,4 @@ torchvision==0.13.1+cu116
 torchaudio==0.14.1+cu116
 
 matplotlib==3.6.3
+pandas==1.5.3
