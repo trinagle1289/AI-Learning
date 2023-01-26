@@ -2,3 +2,5 @@
 data/
 *.bat
 *.pth
+waves_yesno/
+*.tar.gz
