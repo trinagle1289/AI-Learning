@@ -4,3 +4,4 @@ data/
 *.pth
 waves_yesno/
 *.tar.gz
+faces/
