@@ -8,7 +8,7 @@ torchaudio==0.14.1+cu116
 
 matplotlib==3.6.3
 pandas==1.5.3
-soundfile==0.11.0 # ç”¨æ–¼ torchaudio
+soundfile==0.11.0 # ¥Î©ó torchaudio
 scikit-image==0.19.3
 
 scikit_learn==1.2.1
