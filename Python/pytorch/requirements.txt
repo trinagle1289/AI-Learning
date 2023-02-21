@@ -12,3 +12,8 @@ soundfile==0.11.0 # 用於 torchaudio
 scikit-image==0.19.3
 
 scikit_learn==1.2.1
+
+# 用來提醒工作完成
+playsound==1.2.2
+opencv-python==4.7.0.68
+opencv-contrib-python==4.7.0.68
