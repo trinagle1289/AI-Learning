@@ -19,4 +19,5 @@ opencv-python==4.7.0.68
 opencv-contrib-python==4.7.0.68
 
 # 機器學習視覺化
-tensorboard==2.12.0
+tensorflow==2.11.0
+tensorboard==2.11.2
