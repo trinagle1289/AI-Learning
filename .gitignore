@@ -6,3 +6,5 @@ waves_yesno/
 *.tar.gz
 faces/
 runs/
+Python/pytorch/機器學習課程/FashionMNIST
+Python/pytorch/機器學習課程/MNIST
